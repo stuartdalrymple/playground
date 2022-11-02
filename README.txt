@@ -9,3 +9,9 @@ Tutorials I've done:
 
 #2 Git and GitHub Tutorials #2 - Creating Repositories and Commits
 https://www.youtube.com/watch?v=hMfi_ONvGEs&list=PLB5jA40tNf3v1wdyYfxQXgdjPgQvP7Xzg&index=2
+
+Shopping List:
+1. Apples
+2. Pears
+3. Carrots
+4. Potatoes
