@@ -2,6 +2,8 @@ This is a new playground I setup to learn how to use GIT and GITHUB.
 
 From impossible, to possible, to effortless. Just 10,000 hours to go ;)
 
+Edit: I forgot to say that it's never to late to learn ^_^
+
 Tutorials I've done:
 #1 Git and GitHub Tutorials #1 - Intro
 
